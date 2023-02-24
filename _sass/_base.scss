@@ -148,9 +148,11 @@ aside {
 }
 
 // Homepage Header
-
+.boxed-text {
+    border: 1px solid black ;
+  }
 header {
-    position: relative;
+    position: right;
     width: 100%;
     min-height: auto;
     @include background-cover;
