@@ -1,7 +1,7 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title: Backup Coverage for Therapists
+email: backuptherapist@gmail.com
+description: "Landing page for a service that provides backup scheduling for mental health professions so they can go on vacation"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
