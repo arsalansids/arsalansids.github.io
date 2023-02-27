@@ -351,3 +351,24 @@ body {
     -webkit-tap-highlight-color: $theme-dark;
 }
 
+// Personalized
+
+.circle {
+    border-radius: 50%;
+    width: 38px;
+    height: 38px;
+    padding: 9px;
+    background: $theme-primary;
+    border:$theme-primary;
+    color: white;
+    text-align: center;
+    font: 18px Arial, sans-serif;
+  }
+
+.therapy-help-image {
+    width:100px; /*width of your image*/
+    height:100px; /*height of your image*/
+    background-image: url('../img/therapy-help.png');
+    margin:0; /* If you want no margin */
+    padding:0; /*if your want to padding */
+}
